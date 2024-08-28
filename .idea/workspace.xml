@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3abc7a65-b063-4c17-90ab-cbf02030a651" name="Changes" comment="Zadanie2d3 - petle">
-      <change afterPath="$PROJECT_DIR$/src/main/java/animals/Orangutan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/agh/qa/Main.java" afterDir="false" />
+    <list default="true" id="3abc7a65-b063-4c17-90ab-cbf02030a651" name="Changes" comment="Modyfikatory dostępu&#10;Getter, setter">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/agh/qa/Skarbonka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,20 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Orangutan.executor": "Run",
-    "Application.Zadanie2d1.executor": "Run",
-    "Application.Zadanie2d2.executor": "Run",
-    "Application.Zadanie2d3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/_Develope/Java-exercise/src/main/java/pl/edu/agh/qa/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Orangutan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zadanie2d1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zadanie2d2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zadanie2d3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/_Develope/Java-exercise/src/main/java/pl/edu/agh/qa/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.edu.agh.qa.Main" />
@@ -140,11 +139,20 @@
       <option name="project" value="LOCAL" />
       <updated>1724693170432</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modyfikatory dostępu&#10;Getter, setter">
+      <option name="closed" value="true" />
+      <created>1724759844778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724759844778</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Zadanie2d3 - petle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie2d3 - petle" />
+    <MESSAGE value="Modyfikatory dostępu&#10;Getter, setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modyfikatory dostępu&#10;Getter, setter" />
   </component>
 </project>
