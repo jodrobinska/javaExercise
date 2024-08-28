@@ -12,4 +12,17 @@ public class Skarbonka {
         this.kwotaDoCelu = kwotaDoCelu;
     }
 
+    public Skarbonka(BigDecimal zaoszczedzonaKwota, String celOszczedzania, BigDecimal kwotaDoCelu) {
+        this.zaoszczedzonaKwota = zaoszczedzonaKwota;
+        this.celOszczedzania = celOszczedzania;
+        this.kwotaDoCelu = kwotaDoCelu;
+    }
+
+    public void dodajKwote(BigDecimal kwota) {
+        zaoszczedzonaKwota = zaoszczedzonaKwota.add(kwota);
+        if (zaoszczedzonaKwota.compareTo(kwotaDoCelu) >= 0) {
+            System.out.println("Udało się zrealizować cel oszczedzania: " + celOszczedzania);
+        }
+    }
+
 }
