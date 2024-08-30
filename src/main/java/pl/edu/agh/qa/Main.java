@@ -15,4 +15,9 @@ public class Main {
         czarnyOrangutan.skacz();
         brazowyOrangutan.skacz();
     }
+
+    public static void main(String[] args) {
+        AutomatDoKawy automatDoKawy = new AutomatDoKawy();
+        automatDoKawy.sprzedajKawe();
+    }
 }

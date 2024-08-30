@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3abc7a65-b063-4c17-90ab-cbf02030a651" name="Changes" comment="Zadanie3d">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/agh/qa/Z3d1.java" afterDir="false" />
+    <list default="true" id="3abc7a65-b063-4c17-90ab-cbf02030a651" name="Changes" comment="Zadanie3d1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/agh/qa/AutomatDoKawy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/agh/qa/TerminalPlatnosci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/agh/qa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/agh/qa/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724882284436</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Zadanie3d1">
+      <option name="closed" value="true" />
+      <created>1724965417122</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724965417122</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,6 +181,7 @@
     <MESSAGE value="Modyfikatory dostępu&#10;Getter, setter" />
     <MESSAGE value="Zadanie3" />
     <MESSAGE value="Zadanie3d" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie3d" />
+    <MESSAGE value="Zadanie3d1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie3d1" />
   </component>
 </project>
