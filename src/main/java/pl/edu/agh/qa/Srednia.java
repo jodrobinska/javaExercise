@@ -11,5 +11,6 @@ public class Srednia {
         int precyzja = liczbaMiejscPoPrzecinku + 1;
         BigDecimal liczbaLiczb = new BigDecimal(3);
         return suma.divide(liczbaLiczb, new MathContext(precyzja));
+
     }
     }
